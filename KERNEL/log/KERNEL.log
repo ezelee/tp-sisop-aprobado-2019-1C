@@ -1,0 +1,59 @@
+[INFO] 14:16:12:400 Kernel/(6903:6903): *************** NUEVO LOG ***************
+[INFO] 14:16:12:400 Kernel/(6903:6903): Se abrió el archivo de configuración correctamente.
+[INFO] 14:16:12:400 Kernel/(6903:6903): Carga de Propiedad: IP_MEMORIA. Valor: "192.168.1.2".
+[INFO] 14:16:12:400 Kernel/(6903:6903): Carga de Propiedad: PUERTO_MEMORIA. Valor: 8001.
+[INFO] 14:16:12:400 Kernel/(6903:6903): Carga de Propiedad: QUANTUM. Valor: 4.
+[INFO] 14:16:12:400 Kernel/(6903:6903): Carga de Propiedad: MULTIPROCESAMIENTO. Valor: 3.
+[INFO] 14:16:12:400 Kernel/(6903:6903): Carga de Propiedad: METADATA_REFRESH. Valor: 10000.
+[INFO] 14:16:12:400 Kernel/(6903:6903): Carga de Propiedad: SLEEP_EJECUCION. Valor: 5000.
+[INFO] 14:16:12:401 Kernel/(6903:6903): Se generó el hilo para la consola.
+[INFO] 14:39:45:976 Kernel/(7780:7780): *************** NUEVO LOG ***************
+[INFO] 14:39:45:976 Kernel/(7780:7780): Se abrió el archivo de configuración correctamente.
+[INFO] 14:39:45:976 Kernel/(7780:7780): Carga de Propiedad: IP_MEMORIA. Valor: "192.168.1.2".
+[INFO] 14:39:45:976 Kernel/(7780:7780): Carga de Propiedad: PUERTO_MEMORIA. Valor: 8001.
+[INFO] 14:39:45:976 Kernel/(7780:7780): Carga de Propiedad: QUANTUM. Valor: 4.
+[INFO] 14:39:45:976 Kernel/(7780:7780): Carga de Propiedad: MULTIPROCESAMIENTO. Valor: 3.
+[INFO] 14:39:45:976 Kernel/(7780:7780): Carga de Propiedad: METADATA_REFRESH. Valor: 10000.
+[INFO] 14:39:45:976 Kernel/(7780:7780): Carga de Propiedad: SLEEP_EJECUCION. Valor: 5000.
+[INFO] 14:39:45:977 Kernel/(7780:7780): Se generó el hilo para la consola.
+[INFO] 14:40:30:926 Kernel/(7814:7814): *************** NUEVO LOG ***************
+[INFO] 14:40:30:926 Kernel/(7814:7814): Se abrió el archivo de configuración correctamente.
+[INFO] 14:40:30:926 Kernel/(7814:7814): Carga de Propiedad: IP_MEMORIA. Valor: "192.168.1.2".
+[INFO] 14:40:30:926 Kernel/(7814:7814): Carga de Propiedad: PUERTO_MEMORIA. Valor: 8001.
+[INFO] 14:40:30:926 Kernel/(7814:7814): Carga de Propiedad: QUANTUM. Valor: 4.
+[INFO] 14:40:30:926 Kernel/(7814:7814): Carga de Propiedad: MULTIPROCESAMIENTO. Valor: 3.
+[INFO] 14:40:30:926 Kernel/(7814:7814): Carga de Propiedad: METADATA_REFRESH. Valor: 10000.
+[INFO] 14:40:30:926 Kernel/(7814:7814): Carga de Propiedad: SLEEP_EJECUCION. Valor: 5000.
+[INFO] 14:40:30:926 Kernel/(7814:7814): Se generó el hilo para la consola.
+[INFO] 14:41:14:316 Kernel/(7853:7853): *************** NUEVO LOG ***************
+[INFO] 14:41:14:316 Kernel/(7853:7853): Se abrió el archivo de configuración correctamente.
+[INFO] 14:41:14:316 Kernel/(7853:7853): Carga de Propiedad: IP_MEMORIA. Valor: "192.168.1.2".
+[INFO] 14:41:14:316 Kernel/(7853:7853): Carga de Propiedad: PUERTO_MEMORIA. Valor: 8001.
+[INFO] 14:41:14:316 Kernel/(7853:7853): Carga de Propiedad: QUANTUM. Valor: 4.
+[INFO] 14:41:14:316 Kernel/(7853:7853): Carga de Propiedad: MULTIPROCESAMIENTO. Valor: 3.
+[INFO] 14:41:14:316 Kernel/(7853:7853): Carga de Propiedad: METADATA_REFRESH. Valor: 10000.
+[INFO] 14:41:14:316 Kernel/(7853:7853): Carga de Propiedad: SLEEP_EJECUCION. Valor: 5000.
+[INFO] 14:41:14:317 Kernel/(7853:7853): Se generó el hilo para la consola.
+[ERROR] 14:41:17:413 Kernel/(7853:7854): CONSOLA: Se ingresó un comando desconocido: hola.
+[ERROR] 14:41:32:830 Kernel/(7853:7854): CONSOLA: Se ingresó un comando desconocido: ejecutar.
+[INFO] 14:41:36:523 Kernel/(7853:7854): CONSOLA: Se ejecutó el comando select.
+[ERROR] 14:43:45:14 Kernel/(7853:7854): CONSOLA: Se ingresó un comando desconocido: asdasd.
+[INFO] 14:43:51:574 Kernel/(7853:7854): CONSOLA: Se ejecutó el comando select.
+[INFO] 14:44:22:49 Kernel/(7918:7918): *************** NUEVO LOG ***************
+[INFO] 14:44:22:49 Kernel/(7918:7918): Se abrió el archivo de configuración correctamente.
+[INFO] 14:44:22:49 Kernel/(7918:7918): Carga de Propiedad: IP_MEMORIA. Valor: "192.168.1.2".
+[INFO] 14:44:22:49 Kernel/(7918:7918): Carga de Propiedad: PUERTO_MEMORIA. Valor: 8001.
+[INFO] 14:44:22:49 Kernel/(7918:7918): Carga de Propiedad: QUANTUM. Valor: 4.
+[INFO] 14:44:22:49 Kernel/(7918:7918): Carga de Propiedad: MULTIPROCESAMIENTO. Valor: 3.
+[INFO] 14:44:22:49 Kernel/(7918:7918): Carga de Propiedad: METADATA_REFRESH. Valor: 10000.
+[INFO] 14:44:22:49 Kernel/(7918:7918): Carga de Propiedad: SLEEP_EJECUCION. Valor: 5000.
+[INFO] 14:44:22:50 Kernel/(7918:7918): Se generó el hilo para la consola.
+[ERROR] 14:44:23:847 Kernel/(7918:7919): CONSOLA: Se ingresó un comando desconocido: hola.
+[INFO] 14:44:26:45 Kernel/(7918:7919): CONSOLA: Se ejecutó el comando select.
+[ERROR] 14:44:29:316 Kernel/(7918:7919): CONSOLA: Se ingresó un comando desconocido: asdsaf.
+[ERROR] 14:44:30:32 Kernel/(7918:7919): CONSOLA: Se ingresó un comando desconocido: af.
+[ERROR] 14:44:30:207 Kernel/(7918:7919): CONSOLA: Se ingresó un comando desconocido: asd.
+[ERROR] 14:44:30:416 Kernel/(7918:7919): CONSOLA: Se ingresó un comando desconocido: as.
+[ERROR] 14:44:30:597 Kernel/(7918:7919): CONSOLA: Se ingresó un comando desconocido: f.
+[ERROR] 14:44:30:766 Kernel/(7918:7919): CONSOLA: Se ingresó un comando desconocido: asf.
+[INFO] 14:44:32:247 Kernel/(7918:7919): CONSOLA: Se ejecutó el comando salir.

@@ -1,0 +1,53 @@
+[INFO] 23:21:41:136 Lissandra/(10592:10592): *************** NUEVO LOG ***************
+[INFO] 23:21:41:136 Lissandra/(10592:10592): Se abrió el archivo de configuración correctamente.
+[INFO] 23:21:41:136 Lissandra/(10592:10592): Se generó el hilo para el fs.
+[INFO] 13:28:28:648 Lissandra/(3545:3545): *************** NUEVO LOG ***************
+[INFO] 13:28:28:649 Lissandra/(3545:3545): Se abrió el archivo de configuración correctamente.
+[INFO] 13:28:28:649 Lissandra/(3545:3545): Creando fileSystem
+[INFO] 13:28:28:649 Lissandra/(3545:3545): Ruta de tablas: /home/utnso/mnt/LISSANDRA_FS/Tables/
+[INFO] 13:28:28:649 Lissandra/(3545:3545): Ruta de bloques: /home/utnso/mnt/LISSANDRA_FS/Bloques/
+[INFO] 13:28:28:649 Lissandra/(3545:3545): Ruta Metadata: /home/utnso/mnt/LISSANDRA_FS/Metadata/Metadata.bin
+[ERROR] 13:28:28:649 Lissandra/(3545:3545): No se pudo abrir el archivo de configuración.
+[INFO] 13:28:34:857 Lissandra/(3547:3547): *************** NUEVO LOG ***************
+[INFO] 13:28:34:857 Lissandra/(3547:3547): Se abrió el archivo de configuración correctamente.
+[INFO] 13:28:34:857 Lissandra/(3547:3547): Creando fileSystem
+[INFO] 13:28:34:857 Lissandra/(3547:3547): Ruta de tablas: /home/utnso/mnt/LISSANDRA_FS/Tables/
+[INFO] 13:28:34:857 Lissandra/(3547:3547): Ruta de bloques: /home/utnso/mnt/LISSANDRA_FS/Bloques/
+[INFO] 13:28:34:857 Lissandra/(3547:3547): Ruta Metadata: /home/utnso/mnt/LISSANDRA_FS/Metadata/Metadata.bin
+[ERROR] 13:28:34:857 Lissandra/(3547:3547): No se pudo abrir el archivo de configuración.
+[INFO] 13:29:39:201 Lissandra/(3562:3562): *************** NUEVO LOG ***************
+[INFO] 13:29:39:201 Lissandra/(3562:3562): Se abrió el archivo de configuración correctamente.
+[INFO] 13:29:39:201 Lissandra/(3562:3562): Creando fileSystem
+[INFO] 13:29:39:201 Lissandra/(3562:3562): Ruta de tablas: /home/utnso/mnt/LISSANDRA_FS/Tables/
+[INFO] 13:29:39:201 Lissandra/(3562:3562): Ruta de bloques: /home/utnso/mnt/LISSANDRA_FS/Bloques/
+[INFO] 13:29:39:201 Lissandra/(3562:3562): Ruta Metadata: /home/utnso/mnt/LISSANDRA_FS/Metadata/Metadata.bin
+[ERROR] 13:29:39:201 Lissandra/(3562:3562): No se pudo abrir el archivo de configuración.
+[INFO] 13:31:08:663 Lissandra/(3614:3614): *************** NUEVO LOG ***************
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Se abrió el archivo de configuración correctamente.
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Creando fileSystem
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Ruta de tablas: /home/utnso/mnt/LISSANDRA_FS/Tables/
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Ruta de bloques: /home/utnso/mnt/LISSANDRA_FS/Bloques/
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Ruta Metadata: /home/utnso/mnt/LISSANDRA_FS/Metadata/Metadata.bin
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Se abrió el archivo de configuración correctamente.
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Ruta Bitmap: /home/utnso/mnt/LISSANDRA_FS/Metadata/Bitmap.bin
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Se generó el hilo para la consola
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Se generó el hilo para las conexiones
+[INFO] 13:31:08:663 Lissandra/(3614:3614): Se generó el hilo para el dump
+[INFO] 13:31:08:663 Lissandra/(3614:3617): El dumpeo se realizará en 5 segundos
+[INFO] 13:31:08:663 Lissandra/(3614:3616): Socket creado correctamente.
+[INFO] 13:31:08:663 Lissandra/(3614:3616): Socket bindeado correctamente.
+[INFO] 13:31:08:663 Lissandra/(3614:3616): Escuchando conexiones.
+[INFO] 13:31:13:664 Lissandra/(3614:3617): Realizando dumpeo numero 1
+[INFO] 13:31:13:664 Lissandra/(3614:3617): Dumpeo terminado
+[INFO] 13:31:13:664 Lissandra/(3614:3617): Memtable vacia
+[INFO] 13:32:01:522 Lissandra/(3614:3615): CONSOLA: CREATE tabla1 SC 3 5000.
+[INFO] 13:32:01:522 Lissandra/(3614:3615): Comando: CREATE.
+[INFO] 13:32:01:522 Lissandra/(3614:3615): Parámetro 1: tabla1
+[INFO] 13:32:01:522 Lissandra/(3614:3615): Parámetro 2: SC
+[INFO] 13:32:01:522 Lissandra/(3614:3615): Parámetro 3: 3
+[INFO] 13:32:01:522 Lissandra/(3614:3615): Parámetro 4: 5000
+[INFO] 13:32:01:523 Lissandra/(3614:3615): Validando tabla: tabla1
+[INFO] 13:32:01:523 Lissandra/(3614:3615): Ruta tabla: /home/utnso/mnt/LISSANDRA_FS/Tables/tabla1
+[INFO] 13:32:01:523 Lissandra/(3614:3615): Directorio de tabla1 creado
+[INFO] 13:32:01:523 Lissandra/(3614:3615): Creando metadata para: tabla1
+[INFO] 13:32:01:523 Lissandra/(3614:3615): Se generó el hilo para la COMPACTACION.

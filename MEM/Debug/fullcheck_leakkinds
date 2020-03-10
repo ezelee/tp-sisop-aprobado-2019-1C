@@ -1,0 +1,21 @@
+==10103== Memcheck, a memory error detector
+==10103== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==10103== Using Valgrind-3.13.0 and LibVEX; rerun with -h for copyright info
+==10103== Command: ./MEM -v -f
+==10103== Parent PID: 3317
+==10103== 
+==10103== Conditional jump or move depends on uninitialised value(s)
+==10103==    at 0x483139A: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==10103==    by 0x10C12B: procesar_KER (i_kernel_proceso.c:95)
+==10103==    by 0x10A012: procesar (connection.c:124)
+==10103==    by 0x109E5E: listen_connexions (connection.c:89)
+==10103==    by 0x10992B: main (MEM.c:55)
+==10103== 
+==10103== Invalid free() / delete / delete[] / realloc()
+==10103==    at 0x48313D7: free (in /usr/lib/valgrind/vgpreload_memcheck-x86-linux.so)
+==10103==    by 0x10C12B: procesar_KER (i_kernel_proceso.c:95)
+==10103==    by 0x10A012: procesar (connection.c:124)
+==10103==    by 0x109E5E: listen_connexions (connection.c:89)
+==10103==    by 0x10992B: main (MEM.c:55)
+==10103==  Address 0x48acd12 is in a r-x mapped file /usr/lib/libcommons.so segment
+==10103== 
